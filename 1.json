@@ -1,38 +1,35 @@
 {
   "squadName" : "香蜜沉沉烬如霜",
-  "homeTown" : " 导演 : 朱锐斌",
+  "homeTown" : " 朱锐斌",
   "formed" : 2018,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
       "name" : "杨紫",
-      "age" : 29,
-      "powers" : [
+      "birthday" : "1992年11月6日",
+      "master work" : [
         "家有儿女",
-        "战长沙"
+        "战长沙",
+        "香蜜沉沉烬如霜"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "name" : "邓伦",
+      "birthday" : "1992年10月21日",
+      "master work" : [
+        "花非花雾非雾",
+        "因为遇见你",
+        "一千零一夜"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "name" : "罗云熙",
+      "birthday" : "1988年7月28日",
+      "master work" : [
+        "何以笙箫默",
+        "终极游侠",
+        "香蜜沉沉烬如霜"
       ]
     }
   ]
