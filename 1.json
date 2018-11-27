@@ -1,7 +1,8 @@
 {
   "Name" : "香蜜沉沉烬如霜",
   "maker" : " 朱锐斌",
-  "formed" : 2018,
+  "formed" : 2018, 
+  "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
