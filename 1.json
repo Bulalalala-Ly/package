@@ -1,0 +1,39 @@
+{
+  "squadName" : "香蜜沉沉烬如霜",
+  "homeTown" : "朱锐斌",
+  "formed" : 2018,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "杨紫",
+      "age" : "1992年11月6日",
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "家有儿女",
+        "战长沙",
+        "香蜜沉沉烬如霜"
+      ]
+    },
+    {
+      "name" : "邓伦",
+      "age" : "1992年10月21日",
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "花非花雾非雾",
+        "因为遇见你",
+        "一千零一夜"
+      ]
+    },
+    {
+      "name" : "罗云熙",
+      "age" : "1988年7月28日",
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "何以笙箫默",
+        "终极游侠",
+        "香蜜沉沉烬如霜"
+      ]
+    }
+  ]
+}
