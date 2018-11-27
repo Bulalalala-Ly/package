@@ -6,7 +6,6 @@
   "active" : true,
   "members" : [
     {
-      "image" :"http://i2.hdslb.com/bfs/archive/62bca7e55a273a65e70e70c86bdb002c87442a41.jpg",
       "name" : "杨紫",
       "age" : "1992年11月6日",
       "secretIdentity" : "演员、歌手",
@@ -17,7 +16,6 @@
       ]
     },
     {
-      "image" :"http://i2.hdslb.com/bfs/archive/62bca7e55a273a65e70e70c86bdb002c87442a41.jpg",
       "name" : "邓伦",
       "age" : "1992年10月21日",
       "secretIdentity" : "演员",
@@ -28,7 +26,6 @@
       ]
     },
     {
-      "image" :"http://i2.hdslb.com/bfs/archive/62bca7e55a273a65e70e70c86bdb002c87442a41.jpg",
       "name" : "罗云熙",
       "age" : "1988年7月28日",
       "secretIdentity" : "歌手、演员",
