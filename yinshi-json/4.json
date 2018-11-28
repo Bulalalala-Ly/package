@@ -1,0 +1,39 @@
+{
+    "squadName" : "侏罗纪世界 ",
+    "homeTown" : "史蒂文·斯皮尔伯格 ",
+    "formed" : 2015,
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "克里斯·帕拉特 ",
+        "age" : "1979年6月21日 ",
+        "secretIdentity" : "演员 ",
+        "powers" : [
+          "银河护卫队",
+          "侏罗纪世界",
+          "豪勇七蛟龙" 
+        ]
+      },
+      {
+        "name" : "布莱丝·达拉斯·霍华德 ",
+        "age" : "1981年3月2日 ",
+        "secretIdentity" : "演员",
+        "powers" : [
+          "蜘蛛侠3 ",
+          "终结者2018 ",
+          "暮光之城3：月食 "
+        ]
+      },
+      {
+        "name" : "尼克·罗宾森 ",
+        "age" : "1995年3月22日 ",
+        "secretIdentity" : " 演员",
+        "powers" : [
+          "夏日之王",
+          "侏罗纪世界",
+          "第五波"
+        ]
+      }
+    ]
+  }
