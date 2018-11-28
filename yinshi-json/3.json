@@ -1,0 +1,29 @@
+{
+    "squadName" : "为了你我愿意热爱整个世界",
+    "homeTown" : "熊晓玲",
+    "formed" : 2018,
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "罗晋",
+        "age" : "1981年11月30日",
+        "secretIdentity" : "演员",
+        "powers" : [
+          "美人心计",
+          "乱世佳人",
+          "锦绣未央"
+        ]
+      },
+      {
+        "name" : "郑爽",
+        "age" : "1991年8月22日",
+        "secretIdentity" : "演员",
+        "powers" : [
+          "一起来看流星雨",
+          "画壁",
+          "微微一笑很倾城"
+        ]
+      }
+    ]
+  }

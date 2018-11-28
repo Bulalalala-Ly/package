@@ -1,0 +1,39 @@
+{
+    "squadName" : "延禧攻略",
+    "homeTown" : "于正",
+    "formed" : 2018,
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "吴谨言",
+        "age" : "1990年8月16日",
+        "secretIdentity" : "演员",
+        "powers" : [
+          "延禧攻略",
+          "烽火佳人",
+          "秀丽江山之长歌行"
+        ]
+      },
+      {
+        "name" : "秦岚",
+        "age" : "1981年7月17日",
+        "secretIdentity" : "演员、歌手",
+        "powers" : [
+          "还珠格格3",
+          "又见一帘幽梦",
+          "延禧攻略"
+        ]
+      },
+      {
+        "name" : "聂远",
+        "age" : "1978年3月17日",
+        "secretIdentity" : "歌手",
+        "powers" : [
+          "上错花轿嫁对郎",
+          "隋唐英雄传",
+          "延禧攻略"
+        ]
+      }
+    ]
+  }
